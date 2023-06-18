@@ -1,4 +1,4 @@
-# Acc-weather-GUI-with-icons-and-multithread
+# Acc-weather-GUI
 1. Sign up on [accweather homepage](https://developer.accuweather.com/apis) as developer.
 2. Here is this forcast [documentation](https://developer.accuweather.com/accuweather-forecast-api/apis)
 3. Get API in MyApp section after sign up.
